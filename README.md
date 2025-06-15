@@ -1,5 +1,5 @@
 ```markdown
-# 🐱🐶 Cat vs Dog Classifier
+🐱🐶 Cat vs Dog Classifier
 
 An end-to-end image classification project using Convolutional Neural Networks (CNNs) to distinguish between cats and dogs. This project covers data preprocessing, model training, evaluation, and interactive deployment using Streamlit.
 
@@ -110,6 +110,4 @@ This project covers:
 **Yahya Mobeen**
 Introduction to Data Science – Summer 2025
 
-```
 
----
